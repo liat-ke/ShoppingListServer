@@ -9,7 +9,7 @@ git clone https://github.com/liat-ke/ShoppingList.git
 
 ServerSide:
 Downloading as a ZIP File
-1. Go to the GitHub Repository Page- Open your web browser and navigate to the repository page on GitHub (https://github.com/liat-ke/ShoppingList)
+1. Go to the GitHub Repository Page- Open your web browser and navigate to the repository page on GitHub (https://github.com/liat-ke/ShoppingListServer.git)
 2. Download the ZIP File:
 * Click on the green "Code" button.
 * Select "Download ZIP" from the dropdown menu.
